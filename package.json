@@ -1,0 +1,28 @@
+{
+  "name": "crud-express-mongodb",
+  "version": "1.0.0",
+  "description": "\"# myStudentDb\"",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nyqykk/myStudentDb.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nyqykk/myStudentDb/issues"
+  },
+  "homepage": "https://github.com/nyqykk/myStudentDb#readme",
+  "dependencies": {
+    "art-template": "^4.13.2",
+    "body-parser": "^1.19.0",
+    "bootstrap": "^4.5.2",
+    "express": "^4.17.1",
+    "express-art-template": "^1.0.1",
+    "mongoose": "^5.9.28"
+  }
+}
